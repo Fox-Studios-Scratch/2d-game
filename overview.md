@@ -1,4 +1,4 @@
-# 2D Shooter Game Overview
+# Fox's 2D Shooter Game Overview
 
 ## Introduction
 This is a simple 2D shooter game implemented in JavaScript, utilizing the HTML5 canvas element. The game allows players to control a player character, shoot bullets, and eliminate enemies to score points. The code is designed to run directly in a web browser.
@@ -17,7 +17,6 @@ This is a simple 2D shooter game implemented in JavaScript, utilizing the HTML5 
 ## Code Structure
 - **HTML File:** The HTML file includes a canvas element with the ID "gameCanvas" where the game is rendered.
 - **JavaScript (game.js):** The JavaScript file contains the game logic, including player movement, shooting, enemy spawning, collision detection, and score tracking.
-- **CSS (styles.css):** The CSS file can be used to apply styles to the game if desired.
 
 ## How to Play
 1. Open the HTML file in a web browser.
@@ -30,3 +29,5 @@ This is a simple 2D shooter game implemented in JavaScript, utilizing the HTML5 
 - Ensure that the Spacebar and arrow keys are functioning correctly.
 - The game may be affected by browser-specific behaviors. Test in different browsers if issues arise.
 
+## Versions
+v1.0.0 | Initial Release
